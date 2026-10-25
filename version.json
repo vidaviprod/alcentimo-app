@@ -1,0 +1,15 @@
+{
+  "version": "1.5.2",
+  "fecha": "2026-10-21",
+  "novedades": [
+    "Inicio: ya no aparece scroll cuando no hay ningún aviso de presupuesto."
+  ],
+  "tamano": 115355507,
+  "anteriores": [
+    {
+      "version": "1.6.0",
+      "fecha": "2026-10-25",
+      "novedades": []
+    }
+  ]
+}

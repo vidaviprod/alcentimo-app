@@ -1,7 +1,9 @@
 {
   "version": "1.7.0",
   "fecha": "2026-11-03",
-  "novedades": [],
+  "novedades": [
+    "Proyectos: guarda todos los gastos relacionados con un proyecto concreto como una reforma, un viaje o lo que tú necesites."
+  ],
   "tamano": 115470231,
   "anteriores": [
     {
